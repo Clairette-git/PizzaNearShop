@@ -61,3 +61,22 @@ em{
 .navbar.sticky .menu li a:hover{
     color: white;
 } 
+
+.menu-btn{
+    color: white;
+    font-size: 23px;
+    cursor: pointer;
+    display: none;
+
+}
+
+#home{
+    display: flex;
+    background: url("../images/pizza2.png") right no-repeat;
+    background-color: black;
+    height: 80vh;
+    color: white;
+    min-height: 400px;
+    font-family: 'Roboto', sans-serif;
+    
+}
