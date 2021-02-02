@@ -26,7 +26,7 @@ em{
 }
 .navbar.sticky{
     padding: 15px 0;
-    background: crimson;
+    background: rgb(211, 160, 66);
 
 }
 .navbar .max-width{
@@ -123,7 +123,7 @@ em{
 }
 .home .home-content a{
     display: inline-block;
-    background-color: crimson;
+    background-color: rgb(211, 160, 66);
     color: white;
     font-size: 25px;
     padding: 12px 36px;

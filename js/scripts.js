@@ -131,7 +131,6 @@ pizza.prototype.calculateTotalPrice = function(numberOfOrders){
 
 }
 
-/////////////
 
 $("document").ready(function(){
     $("input.delivery-yes").click(function(){
