@@ -1,7 +1,7 @@
 # Pizza Shop Project
 ## By Ange Clairette Uwishema
 ## Project Description <br>
-This is a DELANI STUDIO website that shows information about them and also what they do. It shows their portfolio and their contact. In brief, they develop and design the system.
+This is a Pizza Shop website that will help people to make order online, where they will have to choose the favorite ingredients and size of the Pizza. After all, the price of Pizza & delivery cost will be calculated and be displayed.
 ## Project Setup and Installation instructions
 <ol>
   <li>Google Chrome: Content Display</li>
